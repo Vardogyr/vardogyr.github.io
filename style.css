@@ -1,16 +1,17 @@
 #pageTopMenu1 {
-  border-style: solid;
-  width: calc(100% - 8px);
+  background-color: lightblue;
+  margin: 3px;
+  width: calc(100% - 6px);
   height: 120px;
   position: sticky;
-  top: 0;
+  top: 3px;
   z-index: 3;
 }
 
 #testingColumn1 {
   background-color: lightblue;
-  border-style: solid;
-  width: calc(100% - 8px);
+  margin: 3px;
+  width: calc(100% - 6px);
   height: 5000px;
   z-index: 1;
 }
