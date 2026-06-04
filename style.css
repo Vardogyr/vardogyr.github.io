@@ -3,6 +3,7 @@
   width: 100%;
   height: 200px;
   position: fixed;
+  z-index: 3;
 }
 
 #testingColumn1 {
@@ -11,4 +12,5 @@
   width: 100%;
   height: 5000px;
   position: absolute;
+  z-index: 1;
 }
