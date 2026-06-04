@@ -1,6 +1,6 @@
 #pageTopMenu1 {
   border-style: solid;
-  width: calc(100% - 10px);
+  width: calc(100% - 8px);
   height: 120px;
   position: sticky;
   top: 0;
@@ -10,8 +10,7 @@
 #testingColumn1 {
   background-color: lightblue;
   border-style: solid;
-  width: calc(100% - 10px);
+  width: calc(100% - 8px);
   height: 5000px;
-  position: absolute;
   z-index: 1;
 }
