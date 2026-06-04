@@ -3,6 +3,7 @@
   width: calc(100% - 10px);
   height: 120px;
   position: sticky;
+  top: 0;
   z-index: 3;
 }
 
